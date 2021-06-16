@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DUit-Launcher", "DUit-Launcher\DUit-Launcher.csproj", "{CAC63A20-8A53-4B29-A2CF-A828478913CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAC63A20-8A53-4B29-A2CF-A828478913CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC63A20-8A53-4B29-A2CF-A828478913CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC63A20-8A53-4B29-A2CF-A828478913CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC63A20-8A53-4B29-A2CF-A828478913CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39323FD8-AF8D-430D-A94D-B753ED35C1C9}
+	EndGlobalSection
+EndGlobal
