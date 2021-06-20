@@ -48,7 +48,9 @@ jobs:
              
     - name: build the app
       run: |
-        msbuild /p:Configuration=$env:Configuration 
+        msbuild /p:Configuration=$env:Configuration
+        powershell Remove-Item "D:\a\DUit-Launcher\DUit-Launcher\DUit-Launcher\bin\$env:Configuration\netcoreapp3.1\DUit-Launcher.pdb"
+        powershell Remove-Item "D:\a\DUit-Launcher\DUit-Launcher\DUit-Launcher\bin\$env:Configuration\netcoreapp3.1\DUit-Launcher.runtimeconfig.dev.json"
         powershell Compress-7Zip "D:\a\DUit-Launcher\DUit-Launcher\DUit-Launcher\bin\$env:Configuration\netcoreapp3.1\" -ArchiveFileName "DUit-Launcher.zip" -Format Zip
       env:
         Configuration: ${{ matrix.configuration }}
