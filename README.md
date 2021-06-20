@@ -1,6 +1,6 @@
 # DUit-Launcher
 
-&gt; I heard you like launcher, so I put a launcher into your launcher
+>I heard you like launcher, so I put a launcher into your launcher
 
 ## Why?
 Recently we got some allowed companiontools to run side by side with DU. So we have to start not one but at least two or three programs when playing DU.
