@@ -34,6 +34,10 @@ The intended use is for all 3 checkboxes to be checked, but you can choose which
 * **Comandline** In addition to the Edit Button you can enter the path directly
 * **Arguments** At the time of writing I am not aware of any companiontools that use arguments but some tools are written in e.g. Java. In that case you would select java.exe as your companiontool and then add "-jar path:\to\your\companiontool.jar" as Argument.
 
+## Planed features
+* Advanced Add: Add from GitHub and auto update on new releases
+* Manage Autoconfigurations
+
 ## Licensing
 Varying from the repo License the background picture and DU logo are taken from the [Dual Universe press kit](https://www.dualuniverse.game/contact) and property of [Novaquark](https://www.dualuniverse.game).
 
