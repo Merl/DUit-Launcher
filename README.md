@@ -35,5 +35,7 @@ The intended use is for all 3 checkboxes to be checked, but you can choose which
 * **Arguments** At the time of writing I am not aware of any companiontools that use arguments but some tools are written in e.g. Java. In that case you would select java.exe as your companiontool and then add "-jar path:\to\your\companiontool.jar" as Argument.
 
 ## Licensing
-The background picture and DU logo are taken from the [Dual Universe press kit](https://www.dualuniverse.game/contact) and are property of [Novaquark](https://www.dualuniverse.game).
+Varying from the repo License the background picture and DU logo are taken from the [Dual Universe press kit](https://www.dualuniverse.game/contact) and property of [Novaquark](https://www.dualuniverse.game).
+
+DUit-Launcher except from the above mentioned is BSD-2-Clause.
 
