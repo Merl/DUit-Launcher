@@ -89,6 +89,8 @@ jobs:
       run: |
         msbuild /p:Configuration=$env:Configuration 
         powershell Compress-7Zip "D:\a\DUit-Launcher\DUit-Launcher\DUit-Launcher\bin\$env:Configuration\netcoreapp3.1\" -ArchiveFileName "DUit-Launcher.zip" -Format Zip
+        dir D:\a\DUit-Launcher\DUit-Launcher\DUit-Launcher\bin\$env:Configuration\netcoreapp3.1\
+        pwd
       env:
         Configuration: ${{ matrix.configuration }}
         
