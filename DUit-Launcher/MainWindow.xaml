@@ -10,8 +10,8 @@
         Height="435" Width="800" 
 
         Icon="/assets/duit_icon.ico" 
-        WindowStartupLocation="CenterScreen" 
-        Loaded="Window_Loaded" >
+        WindowStartupLocation="CenterScreen"
+        Loaded="Window_Loaded">
 
     <!--WindowChrome.WindowChrome>
         <WindowChrome
