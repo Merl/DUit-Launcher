@@ -40,7 +40,8 @@ The intended use is for all 3 checkboxes to be checked, but you can choose which
 * Make an installer? Maybe?
 
 ## Contact
-You can contact me via Discord *Merl#3219* or in Dual Universe *MerlDT*
+You can contact me via Discord *Merl#3219* or in Dual Universe *MerlDT*.
+
 I am also a resident at Vampira Market ::pos{0,2,32.8797,78.1275,533.5675}, pay me a visit. :)
 
 ## Licensing
