@@ -39,6 +39,10 @@ The intended use is for all 3 checkboxes to be checked, but you can choose which
 * Manage Autoconfigurations
 * Make an installer? Maybe?
 
+## Contact
+You can contact me via Discord *Merl#3219* or in Dual Universe *MerlDT*
+I am also a resident at Vampira Market ::pos{0,2,32.8797,78.1275,533.5675}, pay me a visit. :)
+
 ## Licensing
 Varying from the repo License the background picture and DU logo are taken from the [Dual Universe press kit](https://www.dualuniverse.game/contact) and property of [Novaquark](https://www.dualuniverse.game).
 
